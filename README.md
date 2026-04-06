@@ -1,4 +1,4 @@
-Descrição do Projeto: Sistema de Criação de Móveis
+# Descrição do Projeto: Sistema de Criação de Móveis
 O projeto se trata de uma implementação do padrão de projeto estrutural Bridge em Java. O objetivo principal é resolver o problema da explosão de classes em sistemas, nesse contexto que se trata de manufatura de móveis, diferentes tipos de produtos (Abstrações) podem ser fabricados com diferentes tipos de materiais (Implementações).
 
 # O Problema Resolvido:
